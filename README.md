@@ -47,7 +47,3 @@ performance, and regional trends.
 - Consumer is the largest customer segment.
 - West has the highest regional profitability.
 - Sales show stronger performance toward the end of the year.
-
-## 📷 Dashboard Preview
-
-![Superstore Dashboard](screenshots/dashboard.png)
